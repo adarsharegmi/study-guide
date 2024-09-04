@@ -27,7 +27,7 @@ export function Toolbar(props: ToolbarProps): JSX.Element {
         color="neutral"
         variant="plain"
         endDecorator={<ExpandMoreRounded />}
-        children="Project Name"
+        children="Guideline"
       />
 
       <Box sx={{ flexGrow: 1 }} component="span" />
