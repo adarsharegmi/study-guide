@@ -1,6 +1,3 @@
-/* SPDX-FileCopyrightText: 2014-present Kriasoft */
-/* SPDX-License-Identifier: MIT */
-
 import { getAnalytics, logEvent } from "firebase/analytics";
 import * as React from "react";
 import { useLocation } from "react-router-dom";
@@ -19,7 +16,7 @@ export function usePageEffect(
 
     document.title =
       location.pathname === "/"
-        ? options?.title ?? appName
+        ? (options?.title ?? appName)
         : options?.title
           ? `${options.title} - ${appName}`
           : appName;

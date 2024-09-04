@@ -1,6 +1,3 @@
-/* SPDX-FileCopyrightText: 2014-present Kriasoft */
-/* SPDX-License-Identifier: MIT */
-
 import { TRPCError } from "@trpc/server";
 import { testWorkspaces } from "db";
 import { describe, expect, it } from "vitest";

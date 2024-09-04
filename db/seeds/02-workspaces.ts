@@ -1,6 +1,3 @@
-/* SPDX-FileCopyrightText: 2014-present Kriasoft */
-/* SPDX-License-Identifier: MIT */
-
 import { Firestore, Timestamp } from "@google-cloud/firestore";
 import { WorkspaceInput } from "../models";
 import { testUsers as users } from "./01-users";

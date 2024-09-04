@@ -1,6 +1,3 @@
-/* SPDX-FileCopyrightText: 2014-present Kriasoft */
-/* SPDX-License-Identifier: MIT */
-
 import { Firestore } from "@google-cloud/firestore";
 import { TRPCError, initTRPC } from "@trpc/server";
 import { CreateExpressContextOptions } from "@trpc/server/adapters/express";

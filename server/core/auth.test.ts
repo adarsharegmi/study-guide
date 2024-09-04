@@ -1,6 +1,3 @@
-/* SPDX-FileCopyrightText: 2014-present Kriasoft */
-/* SPDX-License-Identifier: MIT */
-
 import express from "express";
 import supertest from "supertest";
 import { describe, expect, it } from "vitest";

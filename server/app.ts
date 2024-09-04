@@ -1,6 +1,3 @@
-/* SPDX-FileCopyrightText: 2014-present Kriasoft */
-/* SPDX-License-Identifier: MIT */
-
 import { createExpressMiddleware } from "@trpc/server/adapters/express";
 import express from "express";
 import { createProxyMiddleware } from "http-proxy-middleware";

@@ -1,4 +1,3 @@
-
 ## Features
 
 - Optimized for serverless deployment to CDN edge locations (Cloudflare Workers)
@@ -8,8 +7,6 @@
 - Pre-configured with code quality tools: ESLint, Prettier, TypeScript, Vitest, etc.
 - Pre-configured with VSCode code snippets and other VSCode settings
 - The ongoing design and development is supported by these wonderful companies:
-
-
 
 This project was bootstrapped with [React Starter Kit](https://github.com/kriasoft/react-starter-kit).
 Be sure to join our [Discord channel](https://discord.com/invite/2nKEnKq) for assistance.

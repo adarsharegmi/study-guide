@@ -1,6 +1,3 @@
-/* SPDX-FileCopyrightText: 2014-present Kriasoft */
-/* SPDX-License-Identifier: MIT */
-
 import { Timestamp } from "@google-cloud/firestore";
 import { TRPCError } from "@trpc/server";
 import { z } from "zod";

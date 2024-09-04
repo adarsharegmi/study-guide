@@ -1,6 +1,3 @@
-/* SPDX-FileCopyrightText: 2014-present Kriasoft */
-/* SPDX-License-Identifier: MIT */
-
 import { Request, Response } from "express";
 import { pino } from "pino";
 import { pinoHttp } from "pino-http";

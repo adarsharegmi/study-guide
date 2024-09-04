@@ -1,6 +1,3 @@
-/* SPDX-FileCopyrightText: 2014-present Kriasoft */
-/* SPDX-License-Identifier: MIT */
-
 import { execa } from "execa";
 import { copyFile, readFile, writeFile } from "node:fs/promises";
 import { resolve } from "node:path";

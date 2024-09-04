@@ -1,6 +1,3 @@
-/* SPDX-FileCopyrightText: 2014-present Kriasoft */
-/* SPDX-License-Identifier: MIT */
-
 import { Box, Card, CardContent, Container, Typography } from "@mui/joy";
 import { usePageEffect } from "../core/page";
 
